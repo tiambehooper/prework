@@ -1,20 +1,3 @@
----
-# This section is used to configure this lesson on Newline.
-# `token` can not be changed; however, the rest of the
-# information can be edited as needed. Changes you make
-# here will overwrite the existing content on Newline
-# when you push to the master branch of this path's GitHub repo.
-
-# Begin the body of the lesson below the final `---`.
-
-token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb250ZW50X2lkIjoxNDMzOCwiY29udGVudF90eXBlIjoiTGVzc29uIn0.NpMJjKL1OJHIpIEsZYfuGl85Rgo5ks9XTGJFjU3AnOs
-
-# Everything below this line can be edited.
-title: >-
-  Prework
-description: >-
-  It helps to know what you're getting yourself into. This prework for The Iron Yard's Java class will help you be prepared to hit the ground running on day one!
----
 # Prework
 
 ## Introduction
